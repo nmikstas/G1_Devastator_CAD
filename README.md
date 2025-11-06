@@ -3,9 +3,6 @@
 
 CAD Recreation of Transformers G1 Devastator Toys for 3D Printing
 
-This is just something I'm doing for fun. Maybe I'll finish it, maybe I won't...
-The goal is to print a 300% scale G1 devastator.  
-
 __Devastator built!__
 
 I need to go through all the models and make minor fixes to make the joints more sturdy.
@@ -20,7 +17,7 @@ JB-07 upgrade kit done
 All weapons done  
 
 __Things left to do:__  
-All stickers  
+Stickers  
 G1 Devastator combiner parts.  
 
 ![image](./Misc/Dev1.jpg)
